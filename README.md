@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Bonjour, <br>🪪je m'appelle Franck Kiemde et je suis passionné par le développement logiciel et web.<br>👨‍🎓Je suis actuellement étudiante en 3ᵉ année à Epitech,  je prépare un Master of Science pour 2027.<br>🖥️Je souhaite me spécialiser en Cloud☁️, en IA🌟, en data🔣,  ou Cybersécurité🛡️.<br>🎯Mon ambition : 🧩atteindre mes objectifs professionnels et 🧩 rendre fiers mes proches.
+👋 Bonjour, <br>🪪je m'appelle Franck Kiemde et je suis passionné par le développement logiciel et web.<br>👨‍🎓Je suis actuellement étudiante en 3ᵉ année à Epitech,  je prépare un Master of Science pour 2027.<br>🖥️Je souhaite me spécialiser en Cloud☁️.<br>🎯Mon ambition : 🧩atteindre mes objectifs professionnels et 🧩 rendre fiers mes proches.
 
 
 ## 🌐 Socials:
